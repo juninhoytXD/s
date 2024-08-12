@@ -27,7 +27,7 @@ local OrionLib = {
 
 --Feather Icons https://github.com/evoincorp/lucideblox/tree/master/src/modules/util - Created by 7kayoh
 local Icons = {}
-local Icons = [[
+local a123 = [[
 	{
   "icons": {
     "aperture": "rbxassetid://7733666258",
@@ -612,7 +612,7 @@ local function convertToTable(iconString)
 	return result
 end
 
-local IconsTable = convertToTable(Icons)
+local IconsTable = convertToTable(a123)
 Icon = IconsTable
 
 if not Success then
