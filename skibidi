@@ -615,10 +615,6 @@ end
 local IconsTable = convertToTable(a123)
 Icon = IconsTable
 
-if not Success then
-	warn("\nOrion Library - Failed to load Feather Icons. Error code: " .. Response .. "\n")
-end	
-
 local function GetIcon(IconName)
 	if Icons[IconName] ~= nil then
 		return Icons[IconName]
