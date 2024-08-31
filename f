@@ -2,7 +2,7 @@
     {
         "result": {
             "data": {
-                "json": "SUCCESS"
+                "json": "success"
             }
         }
     }
