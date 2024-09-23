@@ -1,0 +1,12 @@
+{
+    "errors": [
+        {
+            "code": 200,
+            "username": "Faver",
+            "password": 12345,
+            "message": "success",
+            "userID": 1234567,
+            "accessToken": "some-secure-token",
+        }
+    ]
+}
